@@ -1,0 +1,1 @@
+This project focuses on collecting, analyzing, and visualizing customer reviews from a particular restaurant, The Pawn Shop. The main objective is to understand the sentiments of customers who rate the restaurant. This analysis helps the restaurant's management to better understand customer feedback and sentiments, enabling them to make improvements based on customer needs.
