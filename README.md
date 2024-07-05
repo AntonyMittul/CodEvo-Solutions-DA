@@ -21,7 +21,7 @@ Analyze customer sentiment from Yelp reviews to gain experience with real-time w
 
 ---
 
-## TASK 2: ANALYZING PUBLIC BIKE SHARING RIDERSHIP
+## TASK 3: ANALYZING PUBLIC BIKE SHARING RIDERSHIP
 
 ### Description
 Explore public bike-sharing data to analyze ridership patterns. Clean, analyze, and visualize data for insights and present findings in a clear, visually appealing format.
@@ -39,7 +39,7 @@ Explore public bike-sharing data to analyze ridership patterns. Clean, analyze, 
 
 ---
 
-## TASK 3: ANALYZING INDIAN GOVERNMENT OPEN DATA
+## TASK 5: ANALYZING INDIAN GOVERNMENT OPEN DATA
 
 ### Description
 Demonstrate proficiency in data cleaning, analysis, and visualization using datasets from India's Open Government Data Platform. Explore relevant datasets, apply advanced techniques, and present insights interactively.
